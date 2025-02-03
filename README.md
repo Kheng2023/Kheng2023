@@ -1,5 +1,3 @@
-## Hi there! 👋  
-
 Welcome to my GitHub! I'm actively working on adding more projects, so stay tuned for updates.  
 
 ### 👨‍💻 About Me  
