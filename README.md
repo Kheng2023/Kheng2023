@@ -20,8 +20,6 @@ My goal is to **sharpen my software development skills** and, in the future, con
 - **LinkedIn:** [Yong Kheng Beh](https://www.linkedin.com/in/yong-kheng-beh)  
 - **Email:** yongkhengbeh@gmail.com
 
-Here's a refined version of your *Fun Fact* section with better flow and clarity:  
-
 ### 🎉 Fun Fact  
 - I'm a **jack of all trades, master of none**—but always eager to learn more!  
 - In my medical career, I gained extensive experience in **diagnosing common diseases, prescribing medications, and performing surgeries**.  
