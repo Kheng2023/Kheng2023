@@ -1,11 +1,11 @@
 Welcome to my GitHub! I'm actively working on adding more projects, so stay tuned for updates.  
 
 ### 👨‍💻 About Me  
-I am a **career changer** with a deep passion for **software development and AI**. I hold a **Master of Computing and Innovation** from the **University of Adelaide** (2024) and previously earned a **Bachelor of Medicine and Bachelor of Surgery (MBBS)** from the **University of Malaya** (2014).  
+I am a **career changer** with a deep passion for **software development and AI**. I hold a **Master of Computing and Innovation** from the **University of Adelaide** (2024).
 
 Currently, I am volunteering at a not-for-profit organization, contributing to the redevelopment of their website. My primary interests lie in **backend development, AI-driven applications, and BioInformatics(my newfound interest)**.  
 
-My goal is to **sharpen my software development skills** and, in the future, contribute to **medical software and technologies** that can make a meaningful impact.  
+My goal is to **sharpen my software development, data analytics and machine learning skills** and, in the future, contribute to **medical software and technologies** that can make a meaningful impact.  
 
 ### 🔧 Technologies & Skills  
 - **Programming:** Python (LangChain, scikit-learn, pandas), C/C++, SQL  
@@ -20,12 +20,6 @@ My goal is to **sharpen my software development skills** and, in the future, con
 ### 📫 Connect with Me  
 - **LinkedIn:** [Yong Kheng Beh](https://www.linkedin.com/in/yong-kheng-beh)  
 - **Email:** yongkhengbeh@gmail.com
-
-### 🎉 Fun Fact  
-- I'm a **jack of all trades, master of none**—but always eager to learn more!  
-- In my medical career, I gained extensive experience in **diagnosing common diseases, prescribing medications, and performing surgeries**.  
-- I performed **around 50 C-sections** in a year while working in **obstetrics and gynecology**.  
-- I'm also skilled in **transabdominal ultrasound**, making me quite handy with imaging diagnostics.  
 
 Feel free to check out my repositories and connect! 😊  
 
