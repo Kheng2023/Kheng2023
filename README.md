@@ -9,13 +9,13 @@ My goal is to **sharpen my software development, data analytics and machine lear
 
 ### 🔧 Technologies & Skills  
 - **Programming:** Python (LangChain, scikit-learn, pandas), C/C++, SQL  
-- **Tools & Platforms:** Docker, OpenSearch, GitHub, Microsoft Databricks  
+- **Tools & Platforms:** Docker, OpenSearch, GitHub, Microsoft Databricks, Drupal  
 
-### 🚀 What I’m Working On  
+### 🚀 What I’m Working On
+- Redeveloping [SAcommunity.org](https://sacommunity.org/) website using **Drupal CMS** with a team of volunteers.
 - Enhancing my **data analytics** and **software development** skills  
 - Exploring **AI and machine learning applications**  
 - Expanding my **DevOps knowledge**, focusing on cloud technologies
-- Began to explore about **Bioinformatics** as a beginner
 
 ### 📫 Connect with Me  
 - **LinkedIn:** [Yong Kheng Beh](https://www.linkedin.com/in/yong-kheng-beh)  
