@@ -3,7 +3,7 @@ Welcome to my GitHub! I'm actively working on adding more projects, so stay tune
 ### 👨‍💻 About Me  
 I am a **career changer** with a deep passion for **software development and AI**. I hold a **Master of Computing and Innovation** from the **University of Adelaide** (2024).
 
-Currently, I am volunteering at a not-for-profit organization, contributing to the redevelopment of their website. My primary interests lie in **backend development, AI-driven applications, and BioInformatics(my newfound interest)**.  
+Currently, I am volunteering at a not-for-profit organization, contributing to the redevelopment of their website. My primary interests lie in **software development, AI-driven applications and data analytics**.
 
 My goal is to **sharpen my software development, data analytics and machine learning skills** and, in the future, contribute to **medical software and technologies** that can make a meaningful impact.  
 
