@@ -1,27 +1,43 @@
-Welcome to my GitHub! I'm actively working on adding more projects, so stay tuned for updates.  
+# 🌱 Welcome to Yong Kheng's Digital Garden 🌿  
+Here, I plant seeds of ideas, nurture projects with care, and look forward to harvesting meaningful impact through growth and learning.
 
-### 👨‍💻 About Me  
-I am a **career changer** with a deep passion for **software development and AI**. I hold a **Master of Computing and Innovation** from the **University of Adelaide** (2024).
+## 👨‍💻 About the Gardener  
+I’m a **career changer** with a unique journey—from practicing as a **medical doctor** to growing a deep passion for **software development** and **AI**. I hold a Master of Computing and Innovation from the **University of Adelaide (2024)**.
 
-Currently, I am volunteering at a not-for-profit organization, contributing to the redevelopment of their website. My primary interests lie in **software development, AI-driven applications and data analytics**.
+With roots in medicine, I’m now cultivating my skills in tech—growing toward a future where I can contribute to **life-changing medical software and technologies**.
 
-My goal is to **sharpen my software development, data analytics and machine learning skills** and, in the future, contribute to **medical software and technologies** that can make a meaningful impact.  
+Currently, I’m volunteering with a not-for-profit organization, helping redevelop their website—a rewarding project where I tend to both front-end and back-end challenges.
 
-### 🔧 Technologies & Skills  
-- **Programming:** Python (LangChain, scikit-learn, pandas), C/C++, SQL  
-- **Tools & Platforms:** Docker, OpenSearch, GitHub, Microsoft Databricks, Drupal  
+When I’m not growing code, I’m literally in the garden—**volunteering at the Adelaide Botanic Garden** and enjoying gardening as a hobby. 🌿
 
-### 🚀 What I’m Working On
-- Redeveloping [SAcommunity.org](https://sacommunity.org/) website using **Drupal CMS** with a team of volunteers.
-- Enhancing my **data analytics** and **software development** skills  
-- Exploring **AI and machine learning applications**  
-- Expanding my **DevOps knowledge**, focusing on cloud technologies
+My interests are deeply rooted in:  
+- 🌾 **Software Development**  
+- 🌻 **AI & Machine Learning**  
+- 🌸 **Data Analytics**  
+- 🌿 **Medical Technology & Innovation**
 
-### 📫 Connect with Me  
-- **LinkedIn:** [Yong Kheng Beh](https://www.linkedin.com/in/yong-kheng-beh)  
-- **Email:** yongkhengbeh@gmail.com
+## 🛠️ Garden Tools & Techniques  
+- **Programming Languages:**  
+  🐍 Python (LangChain, scikit-learn, pandas)  
+  ⚙️ C/C++ | 🧠 SQL  
 
-Feel free to check out my repositories and connect! 😊  
+- **Platforms & Tools:**  
+  🐳 Docker | 🔍 OpenSearch | 🐙 GitHub  
+  ☁️ Microsoft Databricks | 🌐 Drupal  
+
+## 🚧 Current Projects in Bloom  
+- 🌼 Rebuilding [SAcommunity.org](https://sacommunity.org/) using **Drupal** with fellow volunteers
+- 🌱 Revisiting and enhancing my **Master’s project**, enriched by insights from my recent **internship experience**  
+- 🌻 Deepening my **data analytics** & **software engineering** skills  
+- 🌱 Experimenting with **AI & machine learning** models  
+- 🌤️ Learning more about **cloud & DevOps practices**
+
+## 📬 Let's Grow Together  
+- 🌐 [LinkedIn: Yong Kheng Beh](https://www.linkedin.com/in/yong-kheng-beh)  
+- 📧 yongkhengbeh@gmail.com  
+
+> “A garden is never finished—it is only ever growing.” 🌾  
+Feel free to explore my repositories, watch things grow, or drop by with a message! 😊
 
 <!--
 **Kheng2023/Kheng2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
