@@ -1,7 +1,7 @@
 # 🌱 Welcome to Yong Kheng's Digital Garden 🌿  
 Here, I plant seeds of ideas, nurture projects with care, and look forward to harvesting meaningful impact through growth and learning.
 
-## 👨‍💻 About the Gardener  
+### 👨‍💻 About the Gardener  
 I’m a **career changer** with a unique journey—from practicing as a **medical doctor** to growing a deep passion for **software development** and **AI**. I hold a Master of Computing and Innovation from the **University of Adelaide (2024)**.
 
 With roots in medicine, I’m now cultivating my skills in tech—growing toward a future where I can contribute to **life-changing medical software and technologies**.
@@ -16,7 +16,7 @@ My interests are deeply rooted in:
 - 🌸 **Data Analytics**  
 - 🌿 **Medical Technology & Innovation**
 
-## 🛠️ Garden Tools & Techniques  
+### 🛠️ Garden Tools & Techniques  
 - **Programming Languages:**  
   🐍 Python (LangChain, scikit-learn, pandas)  
   ⚙️ C/C++ | 🧠 SQL  
@@ -25,14 +25,14 @@ My interests are deeply rooted in:
   🐳 Docker | 🔍 OpenSearch | 🐙 GitHub  
   ☁️ Microsoft Databricks | 🌐 Drupal  
 
-## 🚧 Current Projects in Bloom  
+### 🚧 Current Projects in Bloom  
 - 🌼 Rebuilding [SAcommunity.org](https://sacommunity.org/) using **Drupal** with fellow volunteers
 - 🌱 Revisiting and enhancing my **Master’s project**, enriched by insights from my recent **internship experience**  
 - 🌻 Deepening my **data analytics** & **software engineering** skills  
 - 🌱 Experimenting with **AI & machine learning** models  
 - 🌤️ Learning more about **cloud & DevOps practices**
 
-## 📬 Let's Grow Together  
+### 📬 Let's Grow Together  
 - 🌐 [LinkedIn: Yong Kheng Beh](https://www.linkedin.com/in/yong-kheng-beh)  
 - 📧 yongkhengbeh@gmail.com  
 
