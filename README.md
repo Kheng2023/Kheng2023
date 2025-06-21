@@ -1,4 +1,6 @@
-# 🌱 Welcome to Yong Kheng's Digital Garden 🌿<img src="octocat-1750480392496.png" alt="My Octocat" width="250"/>
+# 🌱 Welcome to Yong Kheng's Digital Garden 🌿
+
+<img src="octocat-1750480392496.png" alt="My Octocat" width="250"/>
 
 Here, I plant seeds of ideas, nurture projects with care, and look forward to harvesting meaningful impact through growth and learning.
 
