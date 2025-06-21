@@ -1,10 +1,9 @@
 # 🌱 Welcome to Yong Kheng's Digital Garden 🌿
 
-<img src="octocat-1750480392496.png" alt="My Octocat" width="250"/>
-
 Here, I plant seeds of ideas, nurture projects with care, and look forward to harvesting meaningful impact through growth and learning.
 
 ### 👨‍💻 About the Gardener
+<img src="octocat-1750481765474.png" alt="My Octocat" width="250"/>
 
 I’m a **career changer** with a unique journey—from practicing as a **medical doctor** to growing a deep passion for **software development** and **AI**. I hold a Master of Computing and Innovation from the **University of Adelaide (2024)**.
 
