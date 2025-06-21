@@ -3,7 +3,7 @@
 Here, I plant seeds of ideas, nurture projects with care, and look forward to harvesting meaningful impact through growth and learning.
 
 ### 👨‍💻 About the Gardener
-<img src="octocat-1750481765474.png" alt="My Octocat" width="250"/>
+<img src="octocat-1750481765474.png" alt="My Octocat" width="200"/>
 
 I’m a **career changer** with a unique journey—from practicing as a **medical doctor** to growing a deep passion for **software development** and **AI**. I hold a Master of Computing and Innovation from the **University of Adelaide (2024)**.
 
@@ -26,12 +26,10 @@ My interests are deeply rooted in:
 ### 🛠️ Garden Tools & Techniques
 
 * **Programming Languages:**
-  🐍 Python (LangChain, scikit-learn, pandas)
-  ⚙️ C/C++ | 🧠 SQL
+  🐍 Python (LangChain, scikit-learn, pandas) | ⚙️ C/C++ | 🧠 SQL
 
 * **Platforms & Tools:**
-  🐳 Docker | 🔍 OpenSearch | 🐙 GitHub
-  ☁️ Microsoft Databricks | 🌐 Drupal
+  🐳 Docker | 🐙 GitHub | 🌐 Drupal | Vector Databases
 
 ### 🚧 Current Projects in Bloom
 
