@@ -1,49 +1,31 @@
 # 🌱 Welcome to Yong Kheng's Digital Garden 🌿
 
-Planting ideas, pruning complexity, and watering code with tests — currently tending a full‑stack startup garden (TypeScript, React, Node) and volunteering on a Drupal rebuild.
-
-Here, I plant seeds of ideas, nurture projects with care, and look forward to harvesting meaningful impact through growth and learning.
+Software engineer in Adelaide, and a medical doctor before that. I plant ideas, prune complexity, and water code with tests.
 
 ### 👨‍💻 About the Gardener
 <img src="octocat-1750481765474.png" alt="My Octocat" width="200"/>
 
-I’m a **career changer** with a unique journey — from practicing as a **medical doctor** to growing a deep passion for **software development** and **AI**. I hold a Master of Computing and Innovation and I’m cultivating skills that blend medicine, data and software.
+I spent eight years practising medicine before moving into software through a Master of Computing and Innovation at the University of Adelaide. I now work as a **full-time software engineer at a startup**, where I own a production platform end to end, and I volunteer as a web developer with **Infoxchange**.
 
-At UNESCO (IOC Ocean Decade) I turned a messy text survey into a searchable database so people worldwide can find past Ocean Decade projects to learn from and collaborate — that was a completed internship project I’m proud of.
+What I've been growing in 2026:
 
-Currently, I’m:
+* 💻 **Production platform:** took over a platform rebuild, finished its migration to a new stack, and took it live for real users.
+* 🌐 **SAcommunity.org rebuild:** rebuilt the community directory in **Drupal 11** as a volunteer, including the data migration and a redesign.
+* 🏆 **Infoxchange CEO Award:** Volunteer of the Year 2026.
+* 🎤 **Talk:** [How I Navigate Agentic Coding as a Junior Software Engineer in a Startup](https://kheng2023.github.io/how-i-navigate-agentic-coding/), Adelaide Claude Code Meetup, August 2026.
+* 🎨 **Learning:** Google UX Design Professional Certificate (in progress).
 
-* 💻 Full‑stack intern — building front-end features and backend services at a startup using **TypeScript, React, and Node.js**; shipping features and improving developer experience.
-* 🌐 Volunteering on a Drupal rebuild for [SAcommunity.org](https://sacommunity.org/) — focusing on maintainability, migrations, and clear handover documentation.
-* 🌱 Continuing to learn about testing, CI/CD, and production observability to make projects more robust and easier to maintain.
+When I'm not growing code, I enjoy gardening as a hobby. 🌿
 
-When I’m not growing code, I’m literally in the garden—**volunteering at the Adelaide Botanic Garden** and enjoying gardening as a hobby. 🌿
+### 🛠️ Garden Tools
 
-My interests are deeply rooted in:
+* **Languages:** TypeScript and Python day to day | SQL and PHP where the project needs them
+* **Web:** React | Next.js | MUI | Drupal 11
+* **Data & platform:** PostgreSQL | Supabase | Vercel | Docker
+* **Quality:** Vitest | Playwright | GitHub Actions | Claude Code
 
-* 🌾 **Software Development**
-* 🌻 **AI & Machine Learning**
-* 🌸 **Data Analytics**
-* 🌿 **Medical Technology & Innovation**
+### 📬 Find Me
 
-### 🛠️ Garden Tools & Techniques
-
-* **Programming Languages:**
-  🐍 Python (LangChain, scikit-learn, pandas) | ⚙️ C/C++ | 🧠 SQL | 🟦 TypeScript
-
-* **Platforms & Tools:**
-  🐳 Docker | 🐙 GitHub | 🌐 Drupal | Vector Databases | React | Node.js
-
-### 🚧 Current Projects in Bloom
-
-* 🌼 Rebuilding [SAcommunity.org](https://sacommunity.org/) using **Drupal** with fellow volunteers
-* 🌱 Full‑stack internship — building features and learning best practices with **TypeScript / React / Node.js**
-* 🌤️ Deepening knowledge of **cloud & DevOps practices** and improving developer experience at my internship
-
-### 📬 Let's Keep Growing/Coding
-
-* 🌐 [LinkedIn: Yong Kheng Beh](https://www.linkedin.com/in/yong-kheng-beh)
-* 📧 [yongkhengbeh@gmail.com](mailto:yongkhengbeh@gmail.com)
-* 📝 Read my Drupal migration handover/blog: https://kheng2023.github.io/Drupal-Migration-Blog/
-
-Feel free to explore my repositories, watch things grow, or drop by with a message! 😊
+* 🌍 [Portfolio](https://kheng2023.github.io)
+* 🌐 [LinkedIn](https://www.linkedin.com/in/yong-kheng-beh)
+* 📝 [Drupal migration guides](https://kheng2023.github.io/Drupal-Migration-Blog/)
